@@ -1,0 +1,14 @@
+emp_id,name,department,salary,gender,age
+1,Alice,HR,52000,F,29
+2,Bob,IT,61000,M,35
+3,Charlie,IT,55000,M,32
+4,David,HR,49000,M,41
+5,Eve,Finance,57000,F,38
+6,Frank,Finance,45000,M,45
+7,Grace,IT,53000,F,30
+8,Hannah,HR,58000,F,36
+9,Ian,Finance,59000,M,42
+10,Julia,IT,48000,F,28
+1,Alice,HR,52000,F,29
+2,Bob,IT,61000,M,35
+3,Charlie,IT,55000,M,32
